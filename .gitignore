@@ -1,5 +1,5 @@
 # Répertoire de build — non versionné
-#_build/
+_build/output/*
 
 # Python
 __pycache__/
